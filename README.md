@@ -1,6 +1,6 @@
 # HotYoung 少年进阶投票脚本说明
 
-##[少年进价](http://rsbtp.fzrykj.com/Home/Index)
+##[少年进阶](http://rsbtp.fzrykj.com/Home/Index)
 
 ###工具:
  1. [360急速浏览器](http://chrome.360.cn/)或谷歌浏览器
@@ -38,3 +38,10 @@
  * 优点:省时省力,什么都不需要做,且只要最小化浏览器即可.不占用电脑做其他事情
  * 缺点:自动投票比较不稳定,失败率较高.且容易被封IP,慎用.
  * 好用指数:★☆☆☆☆
+
+
+
+######[打包下载](https://codeload.github.com/siyehua/HotYoung/zip/master)
+
+######如有任何问题请扫二维码联系我
+![Image](/linkMe.png)
