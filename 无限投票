@@ -43,7 +43,7 @@ function hello(){
 
 //刷新Uid
 function setaa(){
-	uidValue =uidValue+count + xuhuanCount*10;
+	uidValue =uidValue+ 2 + count + xuhuanCount*10;
 	setCookie("uid",uidValue,1800);         //设置cookie的值，生存时间半个小时
 }
 
